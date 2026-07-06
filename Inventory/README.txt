@@ -62,6 +62,8 @@ FUNCIONALIDADES CRUD
 3. ACTUALIZAR -> Modificar datos de un producto existente
 4. ELIMINAR  -> Borrar un producto del inventario
 
-ENLACE AL REPOSITORIO GITHUB
+ENLACES A REPOSITORIOS GITHUB
 ------------------------------
-Ver archivo: repositorio.txt
+- Angela Carvajal: https://github.com/angelacar0414/Inventory
+- Dario Bustamante: https://github.com/dariocamargo55-crypto/Inventario-ADSO
+Ver mas detalles en: repositorio.txt
