@@ -1,0 +1,6 @@
+ENLACE AL REPOSITORIO DE GITHUB
+Proyecto: Sistema Inventory - GA7-220501096-AA2-EV01
+Autores: Angela Carvajal Ortiz y Dario Bustamante Camargo
+Ficha: 3186706
+
+REPOSITORIO: https://github.com/angelacar0414/Inventory
